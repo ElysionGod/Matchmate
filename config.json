@@ -1,0 +1,25 @@
+{
+  "prefix": "!",
+  "ownerIds": ["1314288213044756543"],
+   "botId": "1404531132913025086",
+    "botName": "MatchMate ✨",
+  "panelImageUrl": "https://media.discordapp.net/attachments/1392994698293153852/1393251641377165464/gihyuyphy.gif",
+
+  "webhooks": {
+    "primeLog": "https://discord.com/api/webhooks/1393952779646537828/xSLGQmI8NjsVWJyG2iQKpEEeEeWSJflwZDfoABNeyFma2XyuxqfV_tkATgHMQRZonjLC",
+    "platinumLog": "https://discord.com/api/webhooks/1393953139073224724/w6OkR5dwOV8MwueDX1qbpOlfpkPLitPJU_iT6gQ6xsGf7nIxSJAc6r7eTjxE0wKLBRDQ",
+    "removeplat": "https://discord.com/api/webhooks/1393953206714892399/pTr73Fc1Q0bdijD1WlxtV_Na2xVAGjzr9nkOU6D69pHQ8onSvY6KAp1a1wtGoUuk-7QA",
+    "removedprime": "https://discord.com/api/webhooks/1393953263677870222/mblM4Qs9Shv9ehZumNdkAf0f5_gBAoZrpefl2bkmrfiUjoZuBYzEUbUVRMxcr0q2_UQi",
+    "banLog": "https://discord.com/api/webhooks/1393953344959152149/_uT5K0Br3uJpl4zF9ccHOH3JVv7BJWXE09ZZWH-tf_7FahDGs7PbvBgGT1eFUbv6AA1D",
+    "postLog": "https://discord.com/api/webhooks/1404819674465570898/BeFhcRzz_5cDTgEZvr28ElZ1D3rwDhTwVzZ0FEpNHWQHmxVtmzzXmtmivnSgFBfyIhLx",
+    "guildJoin": "https://discord.com/api/webhooks/1404819787971825794/EbthF9TmGwtEGyCvdMrThRQHL2WDW7-VDNx2xLBMM1LeTj0faxCpFjY641riaTDFYKd1",
+    "guildLeave": "https://discord.com/api/webhooks/1404819871560241275/tZ8vcnx-5hQ8HK3oZFkUHblNKbZpbcXGomFoot6fBMmNMGKH2mJEatp3KIDko4eYZ66L",
+    "": ""
+  },
+
+  "defaults": {
+    "freeDailyPosts": 2,
+    "primePinHours": 4
+  },
+  "linkedGuilds": []
+}
